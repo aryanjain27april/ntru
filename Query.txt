@@ -1,0 +1,2 @@
+Hello
+Where is NTRU.jar file to add in libs folder for android.
